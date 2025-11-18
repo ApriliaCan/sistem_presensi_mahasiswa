@@ -155,6 +155,6 @@ Sorting (Bubble Sort)
 
 👤 Author
 
-Gayuh Aza
+
 Mahasiswa Teknologi Informasi
 Universitas Negeri Yogyakarta
